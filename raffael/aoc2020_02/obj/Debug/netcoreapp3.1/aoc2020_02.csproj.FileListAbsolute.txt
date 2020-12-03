@@ -1,0 +1,11 @@
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/bin/Debug/netcoreapp3.1/aoc2020_02
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/bin/Debug/netcoreapp3.1/aoc2020_02.deps.json
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/bin/Debug/netcoreapp3.1/aoc2020_02.runtimeconfig.json
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/bin/Debug/netcoreapp3.1/aoc2020_02.runtimeconfig.dev.json
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/bin/Debug/netcoreapp3.1/aoc2020_02.dll
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/bin/Debug/netcoreapp3.1/aoc2020_02.pdb
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/obj/Debug/netcoreapp3.1/aoc2020_02.csprojAssemblyReference.cache
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/obj/Debug/netcoreapp3.1/aoc2020_02.AssemblyInfoInputs.cache
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/obj/Debug/netcoreapp3.1/aoc2020_02.AssemblyInfo.cs
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/obj/Debug/netcoreapp3.1/aoc2020_02.dll
+/home/rare/Playground/AOC2020/raffael/aoc2020_02/obj/Debug/netcoreapp3.1/aoc2020_02.pdb
